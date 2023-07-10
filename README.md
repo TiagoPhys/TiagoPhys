@@ -29,7 +29,7 @@ Here are some ideas to get!
 -->
 
 ## Linguagens e Ferramentas:
-- Python, FORTRAN
+- Python, Fortran
 - Power BI, Google Looker Studio
 - SQL, Google BigQuery
 - Pacote Office

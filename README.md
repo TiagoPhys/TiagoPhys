@@ -1,6 +1,6 @@
 # Olá 👋, eu sou o Tiago Azevedo
 
-#### Sou Físico pesquisador, bacharel pela Universidade Federal de Viçosa e atualmente doutorando pela mesma universidade na área de física estatística e computacional Possuo experiência em modelagem matemática e computacional de processos estocásticos, incluindo análise, visualização e tratamento de dados. Estou em busca de uma posição no mercado de trabalho como analista de dados, onde poderei utilizar minhas habilidades adquiridas na minha formação, juntamente com o que venho aprendendo por fora recentemente, para ajudar empresas a otimizar seus resultados através de seus dados.
+#### Sou Físico pesquisador, bacharel pela Universidade Federal de Viçosa e atualmente doutorando pela mesma universidade na área de Física Estatística e Computacional. Possuo experiência em modelagem matemática e computacional de processos estocásticos, incluindo análise, visualização e tratamento de dados. Estou em busca de uma posição no mercado de trabalho como analista de dados, onde poderei utilizar minhas habilidades adquiridas na minha formação, juntamente com o que venho aprendendo por fora recentemente, para ajudar empresas a otimizar seus resultados através de seus dados.
 
 * 📊 Em DataAnalysisPortfolio você encontra o meu portfólio de projetos em análise de dados.
 * 📑 Possuo dois artigos na área de física estatística e computacional publicados em periódicos internacionais, que podem ser conferidos 

@@ -3,6 +3,7 @@
 #### Sou Físico pesquisador, bacharel pela Universidade Federal de Viçosa e atualmente doutorando pela mesma universidade na área de Física Estatística e Computacional. Possuo experiência em modelagem matemática e computacional de processos estocásticos, incluindo análise, visualização e tratamento de dados. Estou em busca de uma posição no mercado de trabalho como analista de dados, onde poderei utilizar minhas habilidades adquiridas na minha formação, juntamente com o que venho aprendendo por fora recentemente, para ajudar empresas a otimizar seus resultados através de seus dados.
 
 * 📊 Em DataAnalysisPortfolio você encontra o meu portfólio de projetos em análise de dados.
+* 🤖 Em dataset_ml_discipline você encontra um modelo de predição de preços de aluguéis via ML e um review sobre técnicas de ML aplicadas na minha área de pesquisa atual.
 * 📑 Possuo dois artigos na área de física estatística e computacional publicados em periódicos internacionais, que podem ser conferidos 
   [aqui](https://iopscience.iop.org/article/10.1088/1742-6596/1483/1/012001) e [aqui](https://doi.org/10.1016/j.physa.2022.127909).
 * 📫 Você pode entrar em contato comigo por [tiago.phys@gmail.com](mailto:tiago.phys@gmail.com)

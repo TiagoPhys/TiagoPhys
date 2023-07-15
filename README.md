@@ -6,7 +6,7 @@
 * 🤖 Em machine_learning_projects você encontra um modelo de predição de preços de aluguéis via ML e um review sobre técnicas de ML aplicadas na minha área de pesquisa atual.
 * 📑 Possuo dois artigos na área de física estatística e computacional publicados em periódicos internacionais, que podem ser conferidos 
   [aqui](https://iopscience.iop.org/article/10.1088/1742-6596/1483/1/012001) e [aqui](https://doi.org/10.1016/j.physa.2022.127909).
-* 📫 Você pode entrar em contato comigo por [tiago.phys@gmail.com](mailto:tiago.phys@gmail.com) ou pelo meu Linkedin www.linkedin.com/in/tnazevedo/.
+* 📫 Você pode entrar em contato comigo por [tiago.phys@gmail.com](mailto:tiago.phys@gmail.com) ou pelo meu LinkedIn www.linkedin.com/in/tnazevedo/.
 
 
 <!--

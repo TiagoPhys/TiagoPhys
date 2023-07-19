@@ -28,10 +28,10 @@ Here are some ideas to get!
 - co Fun fact: ...
 -->
 
-## Linguagens e Ferramentas:
+## Languages and Tools:
 - Python, Fortran
 - Power BI, Google Looker Studio
 - SQL, Google BigQuery
-- Pacote Office
+- Office
 - LaTeX
-- Inglês Avançado
+- Advanced English

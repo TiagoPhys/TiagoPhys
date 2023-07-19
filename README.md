@@ -1,12 +1,11 @@
-# Olá 👋, eu sou o Tiago Azevedo
 
-#### Sou Físico pesquisador, bacharel pela Universidade Federal de Viçosa e atualmente doutorando pela mesma universidade na área de Física Estatística e Computacional. Possuo experiência em modelagem matemática e computacional de processos estocásticos, incluindo análise, visualização e tratamento de dados. Estou em busca de uma posição no mercado de trabalho como analista de dados, onde poderei utilizar minhas habilidades adquiridas na minha formação, juntamente com o que venho aprendendo por fora recentemente, para ajudar empresas a otimizar seus resultados através de seus dados.
+Hello 👋, I'm Tiago Azevedo.
 
-* 📊 Em data_analysis_portfolio você encontra o meu portfólio de projetos em análise de dados. Aqui, eu faço uso do Python e do Power BI para realizar tratamento, análise e visualização de dados.
-* 🤖 Em machine_learning_projects você encontra um modelo de predição de preços de aluguéis via ML e um survey sobre técnicas de ML aplicadas na minha área de pesquisa atual.
-* 📑 Possuo dois artigos na área de física estatística e computacional publicados em periódicos internacionais, que podem ser conferidos 
-  [aqui](https://iopscience.iop.org/article/10.1088/1742-6596/1483/1/012001) e [aqui](https://doi.org/10.1016/j.physa.2022.127909).
-* 📫 Você pode entrar em contato comigo por [tiago.phys@gmail.com](mailto:tiago.phys@gmail.com) ou pelo meu LinkedIn www.linkedin.com/in/tnazevedo/.
+I am a research physicist, holding a bachelor's degree from the Federal University of Viçosa, and currently pursuing my Ph.D. at the same university in the field of Statistical and Computational Physics. I have experience in mathematical and computational modeling of stochastic processes, including data analysis, visualization, and manipulation. I am seeking a position in the job market as a data analyst, where I can apply the skills I have acquired during my education, along with the recent self-learning I have undertaken, to help companies optimize their results through data analysis.
+📊 In data_analysis_portfolio, you can find my portfolio of data analysis projects. Here, I use Python and Power BI for data processing, analysis, and visualization.
+🤖 In machine_learning_projects, you can find a rental price prediction model using machine learning and a survey on ML techniques applied in my current research area.
+📑 I have two articles published in international journals in the field of statistical and computational physics, which can be accessed [here](https://iopscience.iop.org/article/10.1088/1742-6596/1483/1/012001) and [here](https://doi.org/10.1016/j.physa.2022.127909).
+📫 You can reach me at [tiago.phys@gmail.com](mailto:tiago.phys@gmail.com) or through my LinkedIn profile at www.linkedin.com/in/tnazevedo/.
 
 
 <!--

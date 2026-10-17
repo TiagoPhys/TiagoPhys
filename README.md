@@ -3,6 +3,7 @@
 
 #### Data analyst with a PhD in Physics, combining statistical rigour with the ability to turn analysis into clear decisions. Based in Dublin, I’m looking for data analyst, data science and quantitative roles where careful analysis directly shapes decisions. 
 
+* 🌐 Visit my personal website at [tiagophys.github.io](https://tiagophys.github.io/) for an overview of my background, projects and publications.
 * 📊 In data_analysis_portfolio, you can find my portfolio of data analysis projects. Here, I use Python and Power BI for data processing, analysis, and visualization.
 * 🤖 In machine_learning_projects, you can find a rental price prediction model using machine learning and a survey on ML techniques applied in my current research area.
 * 📑 I have four articles published in international journals in the field of statistical and computational physics, which can be accessed here: [J. Phys.: Conf. Ser. (2020)](https://doi.org/10.1088/1742-6596/1483/1/012001), [Physica A (2022)](https://doi.org/10.1016/j.physa.2022.127909), [J. Phys.: Condens. Matter (2025)](https://doi.org/10.1088/1361-648X/ae04bf) and [Soft Matter (2025)](https://doi.org/10.1039/D4SM01474J).

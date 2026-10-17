@@ -5,7 +5,7 @@
 
 * 📊 In data_analysis_portfolio, you can find my portfolio of data analysis projects. Here, I use Python and Power BI for data processing, analysis, and visualization.
 * 🤖 In machine_learning_projects, you can find a rental price prediction model using machine learning and a survey on ML techniques applied in my current research area.
-* 📑 I have two articles published in international journals in the field of statistical and computational physics, which can be accessed [here](https://iopscience.iop.org/article/10.1088/1742-6596/1483/1/012001) and [here](https://doi.org/10.1016/j.physa.2022.127909).
+* 📑 I have four articles published in international journals in the field of statistical and computational physics, which can be accessed here: [J. Phys.: Conf. Ser. (2020)](https://doi.org/10.1088/1742-6596/1483/1/012001), [Physica A (2022)](https://doi.org/10.1016/j.physa.2022.127909), [J. Phys.: Condens. Matter (2025)](https://doi.org/10.1088/1361-648X/ae04bf) and [Soft Matter (2025)](https://doi.org/10.1039/D4SM01474J).
 * 📫 You can reach me at [tiago.phys@gmail.com](mailto:tiago.phys@gmail.com) or through my LinkedIn profile at www.linkedin.com/in/tnazevedo/.
 
 

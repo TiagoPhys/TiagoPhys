@@ -33,6 +33,7 @@ Here are some ideas to get!
 - Python, Fortran
 - Power BI, Google Looker Studio
 - SQL, Google BigQuery
+- Salesforce, Airtable
 - Office
 - LaTeX
 - Advanced English
